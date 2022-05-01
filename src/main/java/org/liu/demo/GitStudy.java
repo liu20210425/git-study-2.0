@@ -5,5 +5,6 @@ public class GitStudy {
         System.out.println("再次遇见你，git");
         System.out.println("hello git2");
         System.out.println("hot-fix hello git1");
+        System.out.println("hot-fix hello git2");
     }
 }
